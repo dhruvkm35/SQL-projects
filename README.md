@@ -1,44 +1,30 @@
-# SQL-projects
-# 🍕 Pizza Sales Analysis (SQL Project)
+# 📂 SQL Projects Collection
 
 ## 📌 Description
+Hello 🖐🏻 my name is Dhruv and im going to upload my learing and projects on this repo.
+This repository is a collection of **SQL projects and analysis scripts**.
+Each project is designed to showcase how SQL can be used to explore data, generate insights, and solve real-world business problems.
 
-This project focuses on analyzing pizza sales data using **SQL**.
-The goal is to extract insights about sales performance, customer preferences, and revenue trends.
+The projects in this repo cover areas such as:
 
-The queries explore:
+* 📊 Sales and revenue analysis
+* 🍕 Food & retail business insights
+* 👥 Customer behavior and trends
+* 🛍️ Product performance tracking
+* 📈 Time-based sales performance
 
-* Best-selling pizzas
-* Sales by category and size
-* Revenue contribution over time
-* Customer order patterns
-
----
-
-## 📊 Analysis & Insights
-
-Here are some key findings from the analysis:
-
-* **Total Revenue Generated:** `817,860`
-* **Total Orders Placed:** `21,350`
-* **Best-Selling Pizza (Quantity):** *Classic Deluxe Pizza*
-* **Top Revenue Contributor:** *Thai Chicken Pizza*
-* **Most Popular Category:** *Classic* pizzas contributed \~30% of total sales.
-* **Sales by Size:** Large pizzas made up the majority of sales, followed by medium.
-* **Peak Sales Time:** Dinner hours (6–9 PM) had the highest order volume.
-* **Top 5 Pizzas by Revenue:**
-
-  1. Thai Chicken Pizza
-  2. Barbecue Chicken Pizza
-  3. Classic Deluxe Pizza
-  4. Four Cheese Pizza
-  5. California Chicken Pizza
-
-These insights highlight customer preferences and help identify top-performing products.
+Every `.sql` file contains queries that highlight different aspects of **data analysis and reporting** using relational databases.
 
 ---
 
-## 🚀 Conclusion
+## 🚀 Goal
 
-This SQL project demonstrates how structured queries can provide meaningful business insights.
-The results can be extended further with data visualization tools like **Tableau, Power BI, or Python** for better storytelling.
+The aim of this repository is to:
+
+* Demonstrate **SQL skills** for data analysis
+* Build a collection of **case studies** using SQL
+* Create a reference for practicing and learning SQL query writing
+
+---
+
+Would you like me to also add a **section for listing projects** (like Pizza Sales Analysis, Movie Database, Cricket Matches, etc.) so you can keep updating it as you add more?
